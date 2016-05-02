@@ -1,2 +1,3 @@
 # hello-world
-GitHub tutorial
+## A GitHub tutorial
+My first git repository!  Learning how to branch, edit, commit, open pull requests.  Next I simply need to learn to code...
